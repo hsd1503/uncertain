@@ -48,7 +48,7 @@ Uncertainty
 - 0，1，u 三类label
 
 
-Partial Label Learning， Superset Learning
+**Partial Label Learning， Superset Learning**
 - Hüllermeier, E., & Beringer, J. (2006). Learning from ambiguously labeled examples. Intelligent Data Analysis, 10(5), 419–439. https://doi.org/10.3233/ida-2006-10503
 - Hullermeier, E., & Chen, W. (2015). Superset Learning Based on Generalized Loss Minimization, 1, 441–457. https://doi.org/10.1007/978-3-319-23525-7
 - 覆盖了若干个label的label称为superset
@@ -57,7 +57,7 @@ Multiple labels
 - Learning with Multiple Labels https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf
 - each training instance is given a set of (or distribution over) candidate class labels and only one of the candidate labels is the correct one
 
-Disagreement
+**Disagreement**
 - 每个training sample有多个人标记，且分歧很大。这个我目前在EEG seizure的数据就有这个问题
 
 OOD (out-of-distribution)
