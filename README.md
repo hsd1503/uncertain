@@ -2,15 +2,13 @@ This post talks about uncertain related topics in machine learning.
 
 Overall, I classify all topics into **Data**, **Model**, **Label**, and **Outcome**. 
 
-# Data (disturb data then understand)
+# Data/Model (disturb data/Model then understand)
 
 Influence analysis
 - Koh, P. W., & Liang, P. (2017). Understanding black-box predictions via influence functions. 34th International Conference on Machine Learning, ICML 2017, 4, 2976–2987. https://arxiv.org/pdf/1703.04730.pdf
 
 Adversarial training
 - I. J. Goodfellow, J. Shlens, and C. Szegedy. Explaining and harnessing adversarial examples. In ICLR, 2015. https://arxiv.org/pdf/1412.6572.pdf
-
-# Model (disturb model then understand)
 
 Dropout
 - Gal, Yarin, and Zoubin Ghahramani. "Dropout as a bayesian approximation: Representing model uncertainty in deep learning." international conference on machine learning. 2016. https://arxiv.org/pdf/1506.02142.pdf
